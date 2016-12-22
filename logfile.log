@@ -1,0 +1,60 @@
+2016-12-20 18:30:49,789 INFO  [Log] **************************************************************************************** 
+2016-12-20 18:30:49,791 INFO  [Log] **************************************************************************************** 
+2016-12-20 18:30:49,791 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-20 18:30:49,791 INFO  [Log] **************************************************************************************** 
+2016-12-20 18:30:49,791 INFO  [Log] **************************************************************************************** 
+2016-12-20 18:30:50,335 INFO  [Log]  Excel sheet opened 
+2016-12-20 18:31:04,202 INFO  [Log] New driver instantiated 
+2016-12-20 18:31:05,202 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-12-20 18:31:11,130 INFO  [Log] Web application launched 
+2016-12-20 18:31:11,300 INFO  [Log] My Account link element found 
+2016-12-20 18:31:11,905 INFO  [Log] Username text box found 
+2016-12-20 18:31:16,071 INFO  [Log] Password text box found 
+2016-12-20 18:31:16,711 INFO  [Log] Log Out link element found 
+2016-12-20 18:31:17,131 INFO  [Log] Click action is perfomred on Log Out link 
+2016-12-20 18:31:17,712 INFO  [Log] Browser closed 
+2016-12-20 18:31:17,794 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-20 18:31:17,794 INFO  [Log] X 
+2016-12-20 18:31:17,794 INFO  [Log] X 
+2016-12-20 18:31:17,794 INFO  [Log] X 
+2016-12-20 18:31:17,794 INFO  [Log] X 
+2016-12-21 10:50:07,384 INFO  [Log] **************************************************************************************** 
+2016-12-21 10:50:07,462 INFO  [Log] **************************************************************************************** 
+2016-12-21 10:50:07,462 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-21 10:50:07,462 INFO  [Log] **************************************************************************************** 
+2016-12-21 10:50:07,462 INFO  [Log] **************************************************************************************** 
+2016-12-21 10:50:08,244 INFO  [Log]  Excel sheet opened 
+2016-12-21 10:50:45,384 INFO  [Log] New driver instantiated 
+2016-12-21 10:50:46,145 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-12-21 10:50:57,453 INFO  [Log] Web application launched 
+2016-12-21 10:50:57,885 INFO  [Log] My Account link element found 
+2016-12-21 10:50:59,539 INFO  [Log] Username text box found 
+2016-12-21 10:51:04,691 INFO  [Log] Password text box found 
+2016-12-21 10:51:05,487 INFO  [Log] Log Out link element found 
+2016-12-21 10:51:05,913 INFO  [Log] Click action is perfomred on Log Out link 
+2016-12-21 10:51:06,740 INFO  [Log] Browser closed 
+2016-12-21 10:51:06,929 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-21 10:51:06,929 INFO  [Log] X 
+2016-12-21 10:51:06,929 INFO  [Log] X 
+2016-12-21 10:51:06,929 INFO  [Log] X 
+2016-12-21 10:51:06,929 INFO  [Log] X 
+2016-12-21 11:09:36,375 INFO  [Log] **************************************************************************************** 
+2016-12-21 11:09:36,378 INFO  [Log] **************************************************************************************** 
+2016-12-21 11:09:36,378 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-21 11:09:36,378 INFO  [Log] **************************************************************************************** 
+2016-12-21 11:09:36,378 INFO  [Log] **************************************************************************************** 
+2016-12-21 11:09:37,000 INFO  [Log]  Excel sheet opened 
+2016-12-21 11:09:52,738 INFO  [Log] New driver instantiated 
+2016-12-21 11:09:53,496 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-12-21 11:09:59,605 INFO  [Log] Web application launched 
+2016-12-21 11:09:59,736 INFO  [Log] My Account link element found 
+2016-12-21 11:10:00,428 INFO  [Log] Username text box found 
+2016-12-21 11:10:04,900 INFO  [Log] Password text box found 
+2016-12-21 11:10:05,611 INFO  [Log] Log Out link element found 
+2016-12-21 11:10:06,018 INFO  [Log] Click action is perfomred on Log Out link 
+2016-12-21 11:10:06,679 INFO  [Log] Browser closed 
+2016-12-21 11:10:06,770 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-21 11:10:06,770 INFO  [Log] X 
+2016-12-21 11:10:06,770 INFO  [Log] X 
+2016-12-21 11:10:06,770 INFO  [Log] X 
+2016-12-21 11:10:06,770 INFO  [Log] X 
